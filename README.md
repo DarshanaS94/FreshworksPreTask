@@ -39,3 +39,6 @@ Screenshot of the Social Media Post:
 # Task 2: Min Max Problem
  - The repository also contains a file with the Python Code for Task 2 - Min Max Problem's Solution Code
 
+![Screenshot of Min Max Problem Solution](https://github.com/user-attachments/assets/02a684bd-28c7-4af3-b6bb-fed8ff65c695)
+
+
